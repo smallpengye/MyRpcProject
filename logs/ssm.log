@@ -1,0 +1,458 @@
+[INFO] [2018-04-01 02:22:57][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:22:57 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:22:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:22:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:22:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:22:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:23:30][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:23:30 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:23:30][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:23:34][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:23:34][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:23:34][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:25:17][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:25:17 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:25:17][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:25:18][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:25:18][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:25:18][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:25:24][io.netty.handler.logging.LoggingHandler][id: 0x8bcfde00] REGISTERED
+[INFO] [2018-04-01 02:25:24][io.netty.handler.logging.LoggingHandler][id: 0x8bcfde00] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 02:25:24][io.netty.handler.logging.LoggingHandler][id: 0x8bcfde00, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 02:33:57][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:33:57 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:33:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:34:00][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:34:00][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:34:00][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:34:28][io.netty.handler.logging.LoggingHandler][id: 0x0b692d37] REGISTERED
+[INFO] [2018-04-01 02:34:28][io.netty.handler.logging.LoggingHandler][id: 0x0b692d37] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 02:34:28][io.netty.handler.logging.LoggingHandler][id: 0x0b692d37, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 02:36:04][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:36:04 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:36:04][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:36:06][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:36:06][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:36:06][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:36:55][io.netty.handler.logging.LoggingHandler][id: 0x8994c7ea] REGISTERED
+[INFO] [2018-04-01 02:36:55][io.netty.handler.logging.LoggingHandler][id: 0x8994c7ea] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 02:36:55][io.netty.handler.logging.LoggingHandler][id: 0x8994c7ea, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 02:38:31][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 02:38:31 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 02:38:31][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 02:38:33][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 02:38:33][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 02:38:33][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 02:38:51][io.netty.handler.logging.LoggingHandler][id: 0xce51d312] REGISTERED
+[INFO] [2018-04-01 02:38:51][io.netty.handler.logging.LoggingHandler][id: 0xce51d312] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 02:38:51][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 02:46:04][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xefe11cb8, L:/127.0.0.1:8989 - R:/127.0.0.1:57098]
+[INFO] [2018-04-01 02:46:04][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:46:34][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x55435d81, L:/127.0.0.1:8989 - R:/127.0.0.1:57112]
+[INFO] [2018-04-01 02:46:34][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:01][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x02e76237, L:/127.0.0.1:8989 - R:/127.0.0.1:57121]
+[INFO] [2018-04-01 02:47:01][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:09][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x1b9ba51f, L:/127.0.0.1:8989 - R:/127.0.0.1:57125]
+[INFO] [2018-04-01 02:47:09][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:15][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xbedef194, L:/127.0.0.1:8989 - R:/127.0.0.1:57127]
+[INFO] [2018-04-01 02:47:15][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:27][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe7eaf001, L:/127.0.0.1:8989 - R:/127.0.0.1:57129]
+[INFO] [2018-04-01 02:47:27][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:33][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x72c7fb38, L:/127.0.0.1:8989 - R:/127.0.0.1:57131]
+[INFO] [2018-04-01 02:47:33][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x9e2c4013, L:/127.0.0.1:8989 - R:/127.0.0.1:57133]
+[INFO] [2018-04-01 02:47:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:47:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x84c3a159, L:/127.0.0.1:8989 - R:/127.0.0.1:57134]
+[INFO] [2018-04-01 02:47:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:48:21][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa1bfd171, L:/127.0.0.1:8989 - R:/127.0.0.1:57147]
+[INFO] [2018-04-01 02:48:21][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:48:35][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa5458c39, L:/127.0.0.1:8989 - R:/127.0.0.1:57149]
+[INFO] [2018-04-01 02:48:35][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:48:37][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x672cc317, L:/127.0.0.1:8989 - R:/127.0.0.1:57150]
+[INFO] [2018-04-01 02:48:37][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:48:37][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe26467c6, L:/127.0.0.1:8989 - R:/127.0.0.1:57151]
+[INFO] [2018-04-01 02:48:37][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:49:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x773eaea9, L:/127.0.0.1:8989 - R:/127.0.0.1:57174]
+[INFO] [2018-04-01 02:49:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:49:32][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x2037669a, L:/127.0.0.1:8989 - R:/127.0.0.1:57176]
+[INFO] [2018-04-01 02:49:32][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:49:41][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xab9fa595, L:/127.0.0.1:8989 - R:/127.0.0.1:57179]
+[INFO] [2018-04-01 02:49:41][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:49:46][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x64c2dd5b, L:/127.0.0.1:8989 - R:/127.0.0.1:57180]
+[INFO] [2018-04-01 02:49:46][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:52:02][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd6ae74c6, L:/127.0.0.1:8989 - R:/127.0.0.1:57206]
+[INFO] [2018-04-01 02:52:02][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:52:06][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x0a880216, L:/127.0.0.1:8989 - R:/127.0.0.1:57207]
+[INFO] [2018-04-01 02:52:06][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:52:22][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x0e88bde8, L:/127.0.0.1:8989 - R:/127.0.0.1:57212]
+[INFO] [2018-04-01 02:52:22][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:53:31][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x56c66c4b, L:/127.0.0.1:8989 - R:/127.0.0.1:57236]
+[INFO] [2018-04-01 02:53:31][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:54:52][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x21f4611d, L:/127.0.0.1:8989 - R:/127.0.0.1:57252]
+[INFO] [2018-04-01 02:54:52][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:54:55][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x7f5187e2, L:/127.0.0.1:8989 - R:/127.0.0.1:57253]
+[INFO] [2018-04-01 02:54:55][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:55:05][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x3ce8e17c, L:/127.0.0.1:8989 - R:/127.0.0.1:57259]
+[INFO] [2018-04-01 02:55:05][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:55:11][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x80b27d8e, L:/127.0.0.1:8989 - R:/127.0.0.1:57261]
+[INFO] [2018-04-01 02:55:11][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:55:51][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x01062564, L:/127.0.0.1:8989 - R:/127.0.0.1:57269]
+[INFO] [2018-04-01 02:55:51][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:56:08][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x24327e6b, L:/127.0.0.1:8989 - R:/127.0.0.1:57276]
+[INFO] [2018-04-01 02:56:08][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:56:15][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x975e3412, L:/127.0.0.1:8989 - R:/127.0.0.1:57278]
+[INFO] [2018-04-01 02:56:15][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:56:33][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb8058e81, L:/127.0.0.1:8989 - R:/127.0.0.1:57281]
+[INFO] [2018-04-01 02:56:33][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:13][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x63c6dee7, L:/127.0.0.1:8989 - R:/127.0.0.1:57301]
+[INFO] [2018-04-01 02:57:13][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:18][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x60b8c132, L:/127.0.0.1:8989 - R:/127.0.0.1:57302]
+[INFO] [2018-04-01 02:57:18][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:19][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x85de2d23, L:/127.0.0.1:8989 - R:/127.0.0.1:57303]
+[INFO] [2018-04-01 02:57:19][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6a9487a2, L:/127.0.0.1:8989 - R:/127.0.0.1:57310]
+[INFO] [2018-04-01 02:57:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:31][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x3c258411, L:/127.0.0.1:8989 - R:/127.0.0.1:57312]
+[INFO] [2018-04-01 02:57:31][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:35][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe5eac2d8, L:/127.0.0.1:8989 - R:/127.0.0.1:57313]
+[INFO] [2018-04-01 02:57:35][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:57:54][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x944e6c86, L:/127.0.0.1:8989 - R:/127.0.0.1:57318]
+[INFO] [2018-04-01 02:57:54][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:58:23][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xf328dc40, L:/127.0.0.1:8989 - R:/127.0.0.1:57325]
+[INFO] [2018-04-01 02:58:23][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:58:23][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x9bc95f74, L:/127.0.0.1:8989 - R:/127.0.0.1:57326]
+[INFO] [2018-04-01 02:58:23][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:58:26][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x0e1b9cf3, L:/127.0.0.1:8989 - R:/127.0.0.1:57327]
+[INFO] [2018-04-01 02:58:26][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 02:58:26][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x504fa70b, L:/127.0.0.1:8989 - R:/127.0.0.1:57328]
+[INFO] [2018-04-01 02:58:26][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:00:09][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x866d2c50, L:/127.0.0.1:8989 - R:/127.0.0.1:57349]
+[INFO] [2018-04-01 03:00:09][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:00:30][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x37cd3354, L:/127.0.0.1:8989 - R:/127.0.0.1:57356]
+[INFO] [2018-04-01 03:00:30][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:01:17][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6bf71a54, L:/127.0.0.1:8989 - R:/127.0.0.1:57372]
+[INFO] [2018-04-01 03:01:17][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:01:24][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb8a5cde0, L:/127.0.0.1:8989 - R:/127.0.0.1:57378]
+[INFO] [2018-04-01 03:01:24][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:01:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x3d2a73c2, L:/127.0.0.1:8989 - R:/127.0.0.1:57380]
+[INFO] [2018-04-01 03:01:28][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:01:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xdc6db1a4, L:/127.0.0.1:8989 - R:/127.0.0.1:57386]
+[INFO] [2018-04-01 03:01:36][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:01:40][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x82bd62d8, L:/127.0.0.1:8989 - R:/127.0.0.1:57387]
+[INFO] [2018-04-01 03:01:40][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:02:14][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe3a548b6, L:/127.0.0.1:8989 - R:/127.0.0.1:57396]
+[INFO] [2018-04-01 03:02:14][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:02:39][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xdec44746, L:/127.0.0.1:8989 - R:/127.0.0.1:57404]
+[INFO] [2018-04-01 03:02:39][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:04:10][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb75ec1a5, L:/127.0.0.1:8989 - R:/127.0.0.1:57424]
+[INFO] [2018-04-01 03:04:10][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:04:20][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe47ac8f5, L:/127.0.0.1:8989 - R:/127.0.0.1:57426]
+[INFO] [2018-04-01 03:04:20][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:04:30][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6838cf55, L:/127.0.0.1:8989 - R:/127.0.0.1:57430]
+[INFO] [2018-04-01 03:04:30][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:04:40][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa9e3b038, L:/127.0.0.1:8989 - R:/127.0.0.1:57433]
+[INFO] [2018-04-01 03:04:40][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:04:57][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc7ae7de8, L:/127.0.0.1:8989 - R:/127.0.0.1:57440]
+[INFO] [2018-04-01 03:04:57][io.netty.handler.logging.LoggingHandler][id: 0xce51d312, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:05:09][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 03:05:09 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 03:05:09][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 03:05:11][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 03:05:11][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 03:05:11][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 03:05:11][io.netty.handler.logging.LoggingHandler][id: 0x132c7252] REGISTERED
+[INFO] [2018-04-01 03:05:11][io.netty.handler.logging.LoggingHandler][id: 0x132c7252] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 03:05:11][io.netty.handler.logging.LoggingHandler][id: 0x132c7252, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 03:05:25][io.netty.handler.logging.LoggingHandler][id: 0x132c7252, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa7868996, L:/127.0.0.1:8989 - R:/127.0.0.1:57459]
+[INFO] [2018-04-01 03:05:25][io.netty.handler.logging.LoggingHandler][id: 0x132c7252, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:05:56][io.netty.handler.logging.LoggingHandler][id: 0x132c7252, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x02212b2b, L:/127.0.0.1:8989 - R:/127.0.0.1:57469]
+[INFO] [2018-04-01 03:05:56][io.netty.handler.logging.LoggingHandler][id: 0x132c7252, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:09:25][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2286778: startup date [Sun Apr 01 03:09:25 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 03:09:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 03:09:27][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 03:09:27][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 03:09:27][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 03:10:21][io.netty.handler.logging.LoggingHandler][id: 0xdcbf6283] REGISTERED
+[INFO] [2018-04-01 03:10:21][io.netty.handler.logging.LoggingHandler][id: 0xdcbf6283] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 03:10:21][io.netty.handler.logging.LoggingHandler][id: 0xdcbf6283, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 03:10:49][io.netty.handler.logging.LoggingHandler][id: 0xdcbf6283, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x43e88b7e, L:/127.0.0.1:8989 - R:/127.0.0.1:57545]
+[INFO] [2018-04-01 03:10:49][io.netty.handler.logging.LoggingHandler][id: 0xdcbf6283, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:17:21][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 03:17:21 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 03:17:22][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 03:17:23][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 03:17:23][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 03:17:23][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 03:17:24][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a] REGISTERED
+[INFO] [2018-04-01 03:17:24][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 03:17:24][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 03:17:30][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x656f70cf, L:/127.0.0.1:8989 - R:/127.0.0.1:57915]
+[INFO] [2018-04-01 03:17:30][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:17:41][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x633daed1, L:/127.0.0.1:8989 - R:/127.0.0.1:57921]
+[INFO] [2018-04-01 03:17:41][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:18:11][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x903ede89, L:/127.0.0.1:8989 - R:/127.0.0.1:57931]
+[INFO] [2018-04-01 03:18:11][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:18:37][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x02fe36af, L:/127.0.0.1:8989 - R:/127.0.0.1:57938]
+[INFO] [2018-04-01 03:18:37][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:20:49][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xfd118ffb, L:/127.0.0.1:8989 - R:/127.0.0.1:57970]
+[INFO] [2018-04-01 03:20:49][io.netty.handler.logging.LoggingHandler][id: 0x3d6f574a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:24:18][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 03:24:18 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 03:24:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 03:24:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 03:24:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 03:24:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 03:24:20][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92] REGISTERED
+[INFO] [2018-04-01 03:24:20][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 03:24:20][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 03:24:29][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x316f0b3f, L:/127.0.0.1:8989 - R:/127.0.0.1:58025]
+[INFO] [2018-04-01 03:24:29][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:25:09][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x55ad3849, L:/127.0.0.1:8989 - R:/127.0.0.1:58042]
+[INFO] [2018-04-01 03:25:09][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:25:22][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x62ac264c, L:/127.0.0.1:8989 - R:/127.0.0.1:58045]
+[INFO] [2018-04-01 03:25:22][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:26:35][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x500bd715, L:/127.0.0.1:8989 - R:/127.0.0.1:58061]
+[INFO] [2018-04-01 03:26:35][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:26:44][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x7d0b46ef, L:/127.0.0.1:8989 - R:/127.0.0.1:58063]
+[INFO] [2018-04-01 03:26:44][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:28:52][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x7c3ede64, L:/127.0.0.1:8989 - R:/127.0.0.1:58092]
+[INFO] [2018-04-01 03:28:52][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:28:59][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x56d53019, L:/127.0.0.1:8989 - R:/127.0.0.1:58096]
+[INFO] [2018-04-01 03:28:59][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 03:30:27][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x492a6116, L:/127.0.0.1:8989 - R:/127.0.0.1:58116]
+[INFO] [2018-04-01 03:30:27][io.netty.handler.logging.LoggingHandler][id: 0x5dd11a92, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:16:23][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 09:16:23 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 09:16:23][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 09:16:26][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 09:16:26][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 09:16:26][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 09:16:26][io.netty.handler.logging.LoggingHandler][id: 0x47312868] REGISTERED
+[INFO] [2018-04-01 09:16:26][io.netty.handler.logging.LoggingHandler][id: 0x47312868] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 09:16:26][io.netty.handler.logging.LoggingHandler][id: 0x47312868, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 09:21:51][io.netty.handler.logging.LoggingHandler][id: 0x47312868, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x27532914, L:/127.0.0.1:8989 - R:/127.0.0.1:58609]
+[INFO] [2018-04-01 09:21:51][io.netty.handler.logging.LoggingHandler][id: 0x47312868, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[WARN] [2018-04-01 09:21:51][io.netty.channel.ChannelInitializer]Failed to initialize a channel. Closing: [id: 0x27532914, L:/127.0.0.1:8989 - R:/127.0.0.1:58609]
+java.lang.NoClassDefFoundError: com/hzp/server/RpcDecoder
+	at com.hzp.server.NettyServer$1.initChannel(NettyServer.java:71)
+	at com.hzp.server.NettyServer$1.initChannel(NettyServer.java:67)
+	at io.netty.channel.ChannelInitializer.initChannel(ChannelInitializer.java:113)
+	at io.netty.channel.ChannelInitializer.handlerAdded(ChannelInitializer.java:105)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAdded0(DefaultChannelPipeline.java:606)
+	at io.netty.channel.DefaultChannelPipeline.access$000(DefaultChannelPipeline.java:46)
+	at io.netty.channel.DefaultChannelPipeline$PendingHandlerAddedTask.execute(DefaultChannelPipeline.java:1412)
+	at io.netty.channel.DefaultChannelPipeline.callHandlerAddedForAllHandlers(DefaultChannelPipeline.java:1131)
+	at io.netty.channel.DefaultChannelPipeline.invokeHandlerAddedIfNeeded(DefaultChannelPipeline.java:656)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.register0(AbstractChannel.java:510)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.access$200(AbstractChannel.java:423)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$1.run(AbstractChannel.java:482)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:403)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:463)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:138)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.lang.ClassNotFoundException: com.hzp.server.RpcDecoder
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:381)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:331)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	... 18 more
+[INFO] [2018-04-01 09:23:07][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 09:23:07 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 09:23:07][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 09:23:10][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 09:23:10][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 09:23:10][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 09:23:33][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5] REGISTERED
+[INFO] [2018-04-01 09:23:33][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 09:23:33][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 09:23:46][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd6775451, L:/127.0.0.1:8989 - R:/127.0.0.1:58630]
+[INFO] [2018-04-01 09:23:46][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:27:56][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa75b02e6, L:/127.0.0.1:8989 - R:/127.0.0.1:58675]
+[INFO] [2018-04-01 09:27:56][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:28:08][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xf7bfc72d, L:/127.0.0.1:8989 - R:/127.0.0.1:58677]
+[INFO] [2018-04-01 09:28:08][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:29:00][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6042e3da, L:/127.0.0.1:8989 - R:/127.0.0.1:58694]
+[INFO] [2018-04-01 09:29:00][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:29:13][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x57307e10, L:/127.0.0.1:8989 - R:/127.0.0.1:58697]
+[INFO] [2018-04-01 09:29:13][io.netty.handler.logging.LoggingHandler][id: 0x955a1da5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:31:57][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 09:31:57 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 09:31:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 09:31:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 09:31:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 09:31:59][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 09:31:59][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7] REGISTERED
+[INFO] [2018-04-01 09:31:59][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 09:31:59][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 09:33:11][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb4a05dee, L:/127.0.0.1:8989 - R:/127.0.0.1:58753]
+[INFO] [2018-04-01 09:33:11][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 09:33:13][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x404a7d46, L:/127.0.0.1:8989 - R:/127.0.0.1:58754]
+[INFO] [2018-04-01 09:33:13][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:11:51][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe384bcb1, L:/127.0.0.1:8989 - R:/127.0.0.1:59491]
+[INFO] [2018-04-01 15:11:51][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:12:38][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xbc18e979, L:/127.0.0.1:8989 - R:/127.0.0.1:59502]
+[INFO] [2018-04-01 15:12:38][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:13:22][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb428ff8b, L:/127.0.0.1:8989 - R:/127.0.0.1:59516]
+[INFO] [2018-04-01 15:13:22][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:13:59][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd1c9eb5d, L:/127.0.0.1:8989 - R:/127.0.0.1:59523]
+[INFO] [2018-04-01 15:13:59][io.netty.handler.logging.LoggingHandler][id: 0x7209c3d7, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:16:27][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 15:16:27 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 15:16:27][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 15:16:29][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 15:16:29][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 15:16:29][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 15:16:42][io.netty.handler.logging.LoggingHandler][id: 0x7bdd546e] REGISTERED
+[INFO] [2018-04-01 15:16:42][io.netty.handler.logging.LoggingHandler][id: 0x7bdd546e] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 15:16:42][io.netty.handler.logging.LoggingHandler][id: 0x7bdd546e, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 15:18:18][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 15:18:18 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 15:18:18][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 15:18:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 15:18:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 15:18:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 15:18:59][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a] REGISTERED
+[INFO] [2018-04-01 15:18:59][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 15:18:59][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 15:19:39][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x39d17541, L:/127.0.0.1:8989 - R:/127.0.0.1:59579]
+[INFO] [2018-04-01 15:19:39][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:21:27][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x8f76f5b4, L:/127.0.0.1:8989 - R:/127.0.0.1:59598]
+[INFO] [2018-04-01 15:21:27][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:21:48][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x1aeabb1b, L:/127.0.0.1:8989 - R:/127.0.0.1:59602]
+[INFO] [2018-04-01 15:21:48][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:21:57][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xbcd6ada0, L:/127.0.0.1:8989 - R:/127.0.0.1:59604]
+[INFO] [2018-04-01 15:21:57][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:22:11][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x73cf2c73, L:/127.0.0.1:8989 - R:/127.0.0.1:59610]
+[INFO] [2018-04-01 15:22:11][io.netty.handler.logging.LoggingHandler][id: 0xa2102b6a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:24:01][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 15:24:01 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 15:24:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 15:24:02][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 15:24:02][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 15:24:02][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 15:24:02][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923] REGISTERED
+[INFO] [2018-04-01 15:24:02][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 15:24:03][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 15:24:07][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc3a4b607, L:/127.0.0.1:8989 - R:/127.0.0.1:59634]
+[INFO] [2018-04-01 15:24:07][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:24:32][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x5490c229, L:/127.0.0.1:8989 - R:/127.0.0.1:59638]
+[INFO] [2018-04-01 15:24:32][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:50:20][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xda7b7071, L:/127.0.0.1:8989 - R:/127.0.0.1:60077]
+[INFO] [2018-04-01 15:50:20][io.netty.handler.logging.LoggingHandler][id: 0xaeb41923, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:50:45][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 15:50:45 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 15:50:45][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 15:50:47][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 15:50:47][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 15:50:47][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 15:50:49][io.netty.handler.logging.LoggingHandler][id: 0x43bc35f5] REGISTERED
+[INFO] [2018-04-01 15:50:49][io.netty.handler.logging.LoggingHandler][id: 0x43bc35f5] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 15:50:49][io.netty.handler.logging.LoggingHandler][id: 0x43bc35f5, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 15:50:53][io.netty.handler.logging.LoggingHandler][id: 0x43bc35f5, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc7661c9b, L:/127.0.0.1:8989 - R:/127.0.0.1:60091]
+[INFO] [2018-04-01 15:50:53][io.netty.handler.logging.LoggingHandler][id: 0x43bc35f5, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 15:55:13][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 15:55:13 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 15:55:13][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 15:55:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 15:55:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 15:55:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 15:55:18][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d] REGISTERED
+[INFO] [2018-04-01 15:55:18][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 15:55:18][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 15:55:25][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6802fff2, L:/127.0.0.1:8989 - R:/127.0.0.1:60237]
+[INFO] [2018-04-01 15:55:25][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:00:01][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6b824bf0, L:/127.0.0.1:8989 - R:/127.0.0.1:60277]
+[INFO] [2018-04-01 16:00:01][io.netty.handler.logging.LoggingHandler][id: 0xa2c3725d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:01:11][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 16:01:11 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 16:01:11][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 16:01:13][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 16:01:13][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 16:01:13][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 16:01:14][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c] REGISTERED
+[INFO] [2018-04-01 16:01:14][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 16:01:14][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 16:01:18][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x590dff45, L:/127.0.0.1:8989 - R:/127.0.0.1:60293]
+[INFO] [2018-04-01 16:01:18][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:01:35][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xf98a7056, L:/127.0.0.1:8989 - R:/127.0.0.1:60299]
+[INFO] [2018-04-01 16:01:35][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:03:06][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x8507532b, L:/127.0.0.1:8989 - R:/127.0.0.1:60315]
+[INFO] [2018-04-01 16:03:06][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:03:18][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc2aff812, L:/127.0.0.1:8989 - R:/127.0.0.1:60317]
+[INFO] [2018-04-01 16:03:18][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:03:37][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xe8d6b971, L:/127.0.0.1:8989 - R:/127.0.0.1:60323]
+[INFO] [2018-04-01 16:03:37][io.netty.handler.logging.LoggingHandler][id: 0xe151c70c, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:04:18][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 16:04:18 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 16:04:19][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 16:04:21][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 16:04:21][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 16:04:21][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 16:04:21][io.netty.handler.logging.LoggingHandler][id: 0x8311491d] REGISTERED
+[INFO] [2018-04-01 16:04:21][io.netty.handler.logging.LoggingHandler][id: 0x8311491d] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 16:04:21][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 16:04:25][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x7b3b1783, L:/127.0.0.1:8989 - R:/127.0.0.1:60338]
+[INFO] [2018-04-01 16:04:25][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:19:46][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x840eccdb, L:/127.0.0.1:8989 - R:/127.0.0.1:60477]
+[INFO] [2018-04-01 16:19:46][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 16:20:19][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x4df87cf1, L:/127.0.0.1:8989 - R:/127.0.0.1:60487]
+[INFO] [2018-04-01 16:20:19][io.netty.handler.logging.LoggingHandler][id: 0x8311491d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:32:14][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 21:32:14 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 21:32:14][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 21:32:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 21:32:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 21:32:16][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 21:32:17][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d] REGISTERED
+[INFO] [2018-04-01 21:32:17][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 21:32:17][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 21:32:59][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb6430447, L:/127.0.0.1:8989 - R:/127.0.0.1:63086]
+[INFO] [2018-04-01 21:32:59][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:33:03][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x3c9972a5, L:/127.0.0.1:8989 - R:/127.0.0.1:63087]
+[INFO] [2018-04-01 21:33:03][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:34:08][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x408da178, L:/127.0.0.1:8989 - R:/127.0.0.1:63102]
+[INFO] [2018-04-01 21:34:08][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:34:11][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x6b750993, L:/127.0.0.1:8989 - R:/127.0.0.1:63103]
+[INFO] [2018-04-01 21:34:11][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:37:41][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x38721ebe, L:/127.0.0.1:8989 - R:/127.0.0.1:63135]
+[INFO] [2018-04-01 21:37:41][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:37:41][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa0924c3b, L:/127.0.0.1:8989 - R:/127.0.0.1:63136]
+[INFO] [2018-04-01 21:37:41][io.netty.handler.logging.LoggingHandler][id: 0x0a3a100d, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:38:26][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 21:38:26 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 21:38:26][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 21:38:28][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 21:38:28][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 21:38:28][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 21:38:28][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba] REGISTERED
+[INFO] [2018-04-01 21:38:28][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 21:38:28][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 21:38:40][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xbc59e429, L:/127.0.0.1:8989 - R:/127.0.0.1:63149]
+[INFO] [2018-04-01 21:38:40][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:38:40][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x994f73ab, L:/127.0.0.1:8989 - R:/127.0.0.1:63150]
+[INFO] [2018-04-01 21:38:40][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:39:17][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x1f91f917, L:/127.0.0.1:8989 - R:/127.0.0.1:63158]
+[INFO] [2018-04-01 21:39:17][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:39:22][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x635af375, L:/127.0.0.1:8989 - R:/127.0.0.1:63159]
+[INFO] [2018-04-01 21:39:22][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:42:09][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xb64b92c4, L:/127.0.0.1:8989 - R:/127.0.0.1:63187]
+[INFO] [2018-04-01 21:42:09][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:42:31][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc8644421, L:/127.0.0.1:8989 - R:/127.0.0.1:63188]
+[INFO] [2018-04-01 21:42:31][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:44:02][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x79763b69, L:/127.0.0.1:8989 - R:/127.0.0.1:63206]
+[INFO] [2018-04-01 21:44:02][io.netty.handler.logging.LoggingHandler][id: 0xd87a52ba, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:44:33][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 21:44:33 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 21:44:33][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 21:44:35][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 21:44:35][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 21:44:35][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 21:44:44][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2] REGISTERED
+[INFO] [2018-04-01 21:44:44][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 21:44:44][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 21:45:03][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x097f9820, L:/127.0.0.1:8989 - R:/127.0.0.1:63225]
+[INFO] [2018-04-01 21:45:03][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 21:50:58][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xa826f258, L:/127.0.0.1:8989 - R:/127.0.0.1:63551]
+[INFO] [2018-04-01 21:50:58][io.netty.handler.logging.LoggingHandler][id: 0x70df6db2, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:02:15][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@13a5fe33: startup date [Sun Apr 01 22:02:15 CST 2018]; root of context hierarchy
+[INFO] [2018-04-01 22:02:15][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [applicationContext.xml]
+[INFO] [2018-04-01 22:02:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [jdbc.properties]
+[INFO] [2018-04-01 22:02:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [redis.properties]
+[INFO] [2018-04-01 22:02:20][org.springframework.beans.factory.config.PropertiesFactoryBean]Loading properties file from class path resource [log4j.properties]
+[INFO] [2018-04-01 22:02:23][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a] REGISTERED
+[INFO] [2018-04-01 22:02:23][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a] BIND: 0.0.0.0/0.0.0.0:8989
+[INFO] [2018-04-01 22:02:23][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] ACTIVE
+[INFO] [2018-04-01 22:02:28][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xebccc2f1, L:/127.0.0.1:8989 - R:/127.0.0.1:63819]
+[INFO] [2018-04-01 22:02:28][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:03:28][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd22f0e1e, L:/127.0.0.1:8989 - R:/127.0.0.1:63849]
+[INFO] [2018-04-01 22:03:28][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:03:31][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xc4db7f4d, L:/127.0.0.1:8989 - R:/127.0.0.1:63850]
+[INFO] [2018-04-01 22:03:31][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:10:33][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd3779435, L:/127.0.0.1:8989 - R:/127.0.0.1:64004]
+[INFO] [2018-04-01 22:10:33][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:13:36][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x9f098c56, L:/127.0.0.1:8989 - R:/127.0.0.1:64060]
+[INFO] [2018-04-01 22:13:36][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:14:04][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0xd40a4097, L:/127.0.0.1:8989 - R:/127.0.0.1:64080]
+[INFO] [2018-04-01 22:14:04][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE
+[INFO] [2018-04-01 22:14:04][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ: [id: 0x719a9daf, L:/127.0.0.1:8989 - R:/127.0.0.1:64081]
+[INFO] [2018-04-01 22:14:04][io.netty.handler.logging.LoggingHandler][id: 0xe5c4324a, L:/0:0:0:0:0:0:0:0:8989] READ COMPLETE

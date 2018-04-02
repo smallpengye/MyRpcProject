@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:amq="http://activemq.apache.org/schema/core"
+       xmlns:jms="http://www.springframework.org/schema/jms"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context-4.3.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/jms
+        http://www.springframework.org/schema/jms/spring-jms-4.0.xsd
+        http://activemq.apache.org/schema/core
+        http://activemq.apache.org/schema/core/activemq-core-5.8.0.xsd
+        http://www.springframework.org/schema/aop/spring-aop-4.3.xsd">
+
+    <!-- 自动扫描 -->
+    <context:component-scan base-package="com.hzp" />
+
+
+
+    <bean id="configProperties" class="org.springframework.beans.factory.config.PropertiesFactoryBean">
+        <property name="locations">
+            <list>
+                <value>classpath:jdbc.properties</value>
+                <value>classpath:redis.properties</value>
+                <value>classpath:log4j.properties</value>
+            </list>
+        </property>
+    </bean>
+    <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PreferencesPlaceholderConfigurer">
+        <property name="properties" ref="configProperties" />
+    </bean>
+
+
+    <!-- 配置服务注册组件 -->
+    <!--<bean id="serviceRegistry" class="com.hzp.server.ServiceRegistry">-->
+        <!--<constructor-arg name="registryAddress" value="${registry.address}"/>-->
+    <!--</bean>-->
+
+
+
+    <!--<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+        <property name="driverClassName" value="${jdbc.driverClass}" />
+        <property name="url" value="${jdbc.jdbcUrl}" />
+        <property name="username" value="${jdbc.user}" />
+        <property name="password" value="${jdbc.password}" />
+        <property name="initialSize" value="5" />
+        <property name="maxActive" value="50" />
+        <property name="maxIdle" value="10" />
+        <property name="minIdle" value="1" />
+        <property name="maxWait" value="10000" />
+        <property name="timeBetweenEvictionRunsMillis" value="60000" />
+        <property name="minEvictableIdleTimeMillis" value="10000" />
+    </bean>
+
+    <bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+
+    <bean id="commonDao" class="com.kwt.dao.impl.CommonDaoImpl">
+        <property name="jdbcTemplate" ref="jdbcTemplate" />
+        <property name="show_error" value="false" />
+        <property name="show_sql" value="true" />
+    </bean>
+
+
+    - (事务管理)transaction manager, use JtaTransactionManager for global tx
+    <bean id="transactionManager"
+          class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+        <property name="dataSource" ref="dataSource" />
+    </bean>
+    -->
+    <!--<bean id="jedisPoolConfig" class="redis.clients.jedis.JedisPoolConfig">-->
+        <!--<property name="maxTotal" value="1000" />-->
+        <!--<property name="maxIdle" value="100" />-->
+        <!--<property name="minIdle" value="50" />-->
+        <!--<property name="maxWaitMillis" value="3000" />-->
+        <!--<property name="testOnBorrow" value="true" />-->
+    <!--</bean>-->
+
+    <!--<bean id="shardedJedisPool" class="redis.clients.jedis.ShardedJedisPool"  scope="singleton">-->
+        <!--<constructor-arg index="0" ref="jedisPoolConfig" />-->
+        <!--<constructor-arg index="1">-->
+            <!--<list>-->
+                <!--<bean class="redis.clients.jedis.JedisShardInfo">-->
+                    <!--<constructor-arg name="host" value="${redis.host}" />-->
+                    <!--<constructor-arg name="port" value="${redis.port}" />-->
+                    <!--<constructor-arg name="timeout" value="${redis.timeout}" />-->
+                <!--</bean>-->
+            <!--</list>-->
+        <!--</constructor-arg>-->
+    <!--</bean>-->
+</beans>
