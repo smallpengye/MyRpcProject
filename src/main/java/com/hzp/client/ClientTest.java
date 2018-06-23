@@ -23,7 +23,7 @@ public class ClientTest {
 //        }
         String str = helloService.sayHello();
         System.out.println("返回结果："+str);
-        
+
         DomainInfo o = helloService.sayHello("胡志鹏");
         System.out.println(o.getA());
     }
