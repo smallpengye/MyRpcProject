@@ -4,9 +4,6 @@ import com.hzp.Util.DomainInfo;
 import com.hzp.server.RpcRequest;
 import com.hzp.server.RpcResponse;
 import com.hzp.service.HelloService;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
-
 /**
  * Created by huzhipeng on 2018/4/1.
  */
